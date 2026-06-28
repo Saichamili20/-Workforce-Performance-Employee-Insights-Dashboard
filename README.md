@@ -1,5 +1,6 @@
-📊 Workforce Performance & Employee Insights Dashboard
-🚀 Overview
+#📊 Workforce Performance & Employee Insights Dashboard
+
+##🚀 Overview
 
 An interactive Power BI dashboard designed to analyze workforce performance, employee distribution, and training effectiveness.
 It enables data-driven HR decisions by uncovering trends in engagement, performance, and attrition.
